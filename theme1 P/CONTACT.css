@@ -1,0 +1,93 @@
+body{background:#171518;
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+#container,h2{
+	color: white;
+	text-align: center;
+}
+div ul li
+{
+	display: inline-block;
+}
+a
+{
+	text-decoration: none;
+	margin-left: 30px;
+	color: #d85a6f;
+	text-align: left;
+	font-size: 25px;
+	font-family:Arial Narrow;
+}
+#CONTACT{
+	background-color: #d85a6f;
+	color: white;
+	padding: 15px;
+	border-radius: 25px;
+}
+#menu
+{
+	float: right;
+	margin-right: 150px;
+	margin-top:25px;
+}
+.twitter
+{
+margin-left: 80px;
+margin-top:-41px;
+height: 85px;
+width: 150px;
+
+}
+.instagram
+{
+	margin-left: 45px;
+	margin-top: -70px;
+	height: 70px;
+	width: 70px;
+}
+.facebook
+{
+	margin-left: 70px;
+	margin-top: -3px;
+	height: 70px;
+	width: 70px;
+}
+.coordonnées{
+	margin-top: 20px;
+}
+.coordonnées td{
+	color:white;
+	font-size: 20px;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.coordonnées strong{
+	color: #d85a6f;
+	font-size: 25px;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.gouts{
+	margin-left: 60%;
+	margin-top: -277px;
+}
+.gouts strong{
+	color:#d85a6f ;
+	font-size: 25px;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.gouts label{
+	color:white;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.identifiant{
+	margin-left: 60%;
+}
+.identifiant strong{
+		color:#d85a6f ;
+		font-size: 25px;
+		font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.logo1{
+	margin-top: 15px;
+}	

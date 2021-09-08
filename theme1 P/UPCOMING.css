@@ -1,0 +1,107 @@
+body{
+
+	background-image:url("cap1.png"); 
+	float: center;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	margin-top: 50px;
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+/*notre titre*/
+#container,h2{
+	color: white;
+	text-align: center;
+}
+/*notre menu*/
+div ul li
+{
+	display: inline-block;
+}
+a
+{
+	text-decoration: none;
+	margin-left: 30px;
+	color: #d85a6f;
+	text-align: left;
+	font-size: 25px;
+	font-family:Arial Narrow;
+}
+#UPCOMING{
+	background-color: #d85a6f;
+	color: white;
+	padding: 15px;
+	border-radius: 25px;
+}
+#menu
+{
+	float: right;
+	margin-right: 150px;
+	margin-top: -160px;
+    padding: 15px;
+}
+p{
+	color: #d85a6f;
+}
+/*gestion des réseaux sociaux*/
+.twitter
+{
+	margin-left: 75px;
+margin-top:-37px;
+height: 85px;
+width: 150px;
+
+}
+
+.instagram
+{
+	margin-left: 30px;
+	margin-top: -68px;
+	height: 70px;
+	width: 70px;
+}
+.facebook
+{
+	margin-left: 60px;
+	margin-top: 4px;
+	height: 70px;
+	width: 70px;
+}
+/*pour les trois derniers coeurs*/
+.cc3{
+	margin-top: 170px;
+	margin-left: 60px;
+	
+}
+.cc5{
+	margin-top: -357px;
+	margin-left: 385px;
+	
+}
+.cc8{
+	margin-top: -20px;
+}
+.cc9{
+	margin-top: -200px;
+	margin-left: 520px;
+}
+#prev{
+	margin-top: -330px;
+	margin-left: 120px;
+	color:#d85a6f ;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: 25px;
+}
+#prev li{
+	color: white;
+	font-size: 23px;
+	margin-top: -40px;
+}
+/*pour souligner le titre*/
+hr{
+	width: 382px;
+	margin-left: 1px;
+	margin-top: -30px;
+	height: 5px;
+	background: #d85a6f;
+}

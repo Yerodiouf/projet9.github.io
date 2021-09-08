@@ -1,0 +1,116 @@
+/*notre arriére plan*/
+body{
+	background-image:url("cap2.png"); 
+	float: center;
+	background-size: 100%;
+	background-repeat: no-repeat;
+   margin-top: 50%;
+   overflow-y: hidden;
+   overflow-x: hidden;
+}
+/*notre menu commence ici*/
+#container,h2{
+	color: white;
+	text-align: center;
+}
+div ul li
+{
+	display: inline-block;
+    margin-left: -20px;
+    padding: 10x;
+}
+a
+{
+	text-decoration: none;
+	margin-left: 50px;
+	color: #d85a6f;
+	text-align: left;
+	font-size: 25px;
+	font-family:Arial Narrow;
+	
+   
+}
+/*pour montrer que nous somme sur home avec un arriére plan arrondi*/
+#HOME{
+	background-color: #d85a6f;
+	color: white;
+	padding: 15px;
+	border-radius: 25px;
+}
+#menu
+{
+	float: right;
+	margin-right: 60px;
+	margin-top: -70px;
+}
+/*pour delicious cupcake*/	
+div h1{
+	color: #d85a6f;
+	text-align: left;
+	margin-top: -950px;
+    margin-left: 120px;
+	font-size: 70px;
+    margin-top: -455px;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	padding: 25px;
+}
+/*pour le paragraphe entre le h1 et le buy now!*/
+div h3{
+	color: white;
+	text-align: left;
+	padding-top: 90px;
+		margin-top: -150px;
+        margin-left: 150px;
+	
+}
+/*gestion des réseaux sociaux*/
+.twitter
+{
+	margin-left: 75px;
+margin-top:-37px;
+height: 85px;
+width: 150px;
+
+}
+
+.instagram
+{
+	margin-left: 30px;
+	margin-top: -68px;
+	height: 70px;
+	width: 70px;
+}
+.facebook
+{
+	margin-left: 60px;
+	margin-top: 4px;
+	height: 70px;
+	width: 70px;
+}
+/*pour les trois derniers coeurs*/
+.cc3{
+	margin-top: -180px;
+	margin-left: 60px;
+	
+}
+.cc5{
+	margin-top: -357px;
+	margin-left: 385px;
+	
+}
+.cc8{
+	margin-top: -20px;
+}
+.cc9{
+	margin-top: -200px;
+	margin-left: 520px;
+}
+/*propprietés css du bouton BUY NOW!*/
+.btn a{
+	background: #d85a6f;
+	color: white;
+	border-radius: 100px;
+	padding: 8px;
+	margin-left: 150px;
+
+}
